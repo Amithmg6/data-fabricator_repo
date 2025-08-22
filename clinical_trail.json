@@ -1,0 +1,1802 @@
+[
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "db4b7357-8866-4480-896e-ca7b0d04114a",
+        "group": "Treatment",
+        "start_date": "2025-04-28",
+        "end_date": "2025-08-05",
+        "outcome": "Stable",
+        "age": 62
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "b3dcbe5a-3b61-4069-961b-a3f99698e8ea",
+        "group": "Control",
+        "start_date": "2025-04-12",
+        "end_date": "2025-07-29",
+        "outcome": "Improved",
+        "age": 41
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "fa447880-6de6-43cc-bd51-f273697fd5d9",
+        "group": "Treatment",
+        "start_date": "2025-04-28",
+        "end_date": "2025-07-20",
+        "outcome": "Worsened",
+        "age": 33
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "97f29663-622c-465a-8b65-6d27c3fd6aa6",
+        "group": "Control",
+        "start_date": "2025-05-23",
+        "end_date": "2025-06-22",
+        "outcome": "Stable",
+        "age": 61
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "e2fb2996-830e-4316-922e-81caaa4ca266",
+        "group": "Control",
+        "start_date": "2025-07-22",
+        "end_date": "2025-07-13",
+        "outcome": "Improved",
+        "age": 57
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "ab683365-d9e6-48d8-b183-b125d0f1f668",
+        "group": "Control",
+        "start_date": "2025-03-02",
+        "end_date": "2025-07-07",
+        "outcome": "Worsened",
+        "age": 43
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "d737e28e-e403-48fb-8b7a-d62b1fe9421f",
+        "group": "Treatment",
+        "start_date": "2025-04-02",
+        "end_date": "2025-07-28",
+        "outcome": "Improved",
+        "age": 24
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "15f9ceda-c6e6-4d8e-9bbc-e8de9a32509d",
+        "group": "Treatment",
+        "start_date": "2025-02-24",
+        "end_date": "2025-06-23",
+        "outcome": "Improved",
+        "age": 22
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "68d45b9c-b01c-41e3-9fd2-b5a648ddbeee",
+        "group": "Treatment",
+        "start_date": "2025-07-22",
+        "end_date": "2025-07-26",
+        "outcome": "Stable",
+        "age": 67
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "45835bb5-a761-4c54-879b-3ec274490cad",
+        "group": "Treatment",
+        "start_date": "2025-04-02",
+        "end_date": "2025-07-09",
+        "outcome": "Improved",
+        "age": 30
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "ae7c5b47-eeb6-41fa-86fa-9152e04c69e9",
+        "group": "Treatment",
+        "start_date": "2025-05-02",
+        "end_date": "2025-07-10",
+        "outcome": "Improved",
+        "age": 47
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "a6d8151c-8777-4f49-bea3-71f6ba63cb51",
+        "group": "Control",
+        "start_date": "2025-02-02",
+        "end_date": "2025-07-13",
+        "outcome": "Stable",
+        "age": 46
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "5d797614-2003-453f-b583-83049fa6bd77",
+        "group": "Control",
+        "start_date": "2025-02-18",
+        "end_date": "2025-07-24",
+        "outcome": "Stable",
+        "age": 33
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "293e4627-692f-4290-b250-f9e7c71672d6",
+        "group": "Treatment",
+        "start_date": "2025-07-01",
+        "end_date": "2025-06-21",
+        "outcome": "Stable",
+        "age": 65
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "3bf5fe07-16f8-4ecd-8dfb-a63e7bba253d",
+        "group": "Treatment",
+        "start_date": "2025-04-10",
+        "end_date": "2025-07-25",
+        "outcome": "Improved",
+        "age": 48
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "d2d48aa4-117d-42c0-95c5-797ef4d17154",
+        "group": "Control",
+        "start_date": "2025-05-10",
+        "end_date": "2025-06-28",
+        "outcome": "Stable",
+        "age": 64
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "9305468f-2275-4bc4-a0a1-1932b1c84c71",
+        "group": "Control",
+        "start_date": "2025-04-04",
+        "end_date": "2025-08-05",
+        "outcome": "Stable",
+        "age": 38
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "e2a9ac6d-ca97-48e3-862b-94a30f25d8f6",
+        "group": "Control",
+        "start_date": "2025-02-25",
+        "end_date": "2025-07-15",
+        "outcome": "Worsened",
+        "age": 46
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "60877b36-53c6-403c-b852-ff536f220799",
+        "group": "Control",
+        "start_date": "2025-07-12",
+        "end_date": "2025-07-03",
+        "outcome": "Stable",
+        "age": 40
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "d67efbb0-dbc7-4cff-b376-0247d7877829",
+        "group": "Treatment",
+        "start_date": "2025-05-13",
+        "end_date": "2025-08-17",
+        "outcome": "Improved",
+        "age": 75
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "48b07bf2-73d7-4cac-bd6a-17566944cfff",
+        "group": "Treatment",
+        "start_date": "2025-06-29",
+        "end_date": "2025-07-01",
+        "outcome": "Improved",
+        "age": 46
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "8104d2f2-afaf-4da8-9616-7c662906d206",
+        "group": "Control",
+        "start_date": "2025-06-30",
+        "end_date": "2025-08-04",
+        "outcome": "Stable",
+        "age": 22
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "09e3c7b8-1d5c-4154-946a-defd73244d88",
+        "group": "Control",
+        "start_date": "2025-02-21",
+        "end_date": "2025-07-06",
+        "outcome": "Stable",
+        "age": 39
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "fbbcaf9c-e2ba-450c-85e1-60fa6e188f29",
+        "group": "Treatment",
+        "start_date": "2025-01-19",
+        "end_date": "2025-07-06",
+        "outcome": "Improved",
+        "age": 47
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "86b82543-a6f1-4463-92ab-4f36f90e8cc6",
+        "group": "Control",
+        "start_date": "2025-01-29",
+        "end_date": "2025-07-23",
+        "outcome": "Improved",
+        "age": 68
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "69629e88-fc5d-420c-a472-f0cdf9d809cb",
+        "group": "Control",
+        "start_date": "2025-02-23",
+        "end_date": "2025-07-08",
+        "outcome": "Worsened",
+        "age": 58
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "3cf9463e-bae6-418e-a7a0-eebf5d83f6f9",
+        "group": "Control",
+        "start_date": "2025-02-06",
+        "end_date": "2025-07-20",
+        "outcome": "Stable",
+        "age": 51
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "35555e9d-c270-4818-973d-0df5e5dfe08b",
+        "group": "Control",
+        "start_date": "2025-02-24",
+        "end_date": "2025-08-15",
+        "outcome": "Stable",
+        "age": 37
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "88c01939-424e-42b4-9e6c-ed898731e245",
+        "group": "Treatment",
+        "start_date": "2025-05-21",
+        "end_date": "2025-07-06",
+        "outcome": "Stable",
+        "age": 65
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "44684a65-b3e7-4e66-9022-d42a4af599c5",
+        "group": "Treatment",
+        "start_date": "2025-03-07",
+        "end_date": "2025-06-23",
+        "outcome": "Improved",
+        "age": 67
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "da710c2e-b761-446f-9bce-a1a9d038603e",
+        "group": "Treatment",
+        "start_date": "2025-03-19",
+        "end_date": "2025-07-28",
+        "outcome": "Improved",
+        "age": 57
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "e7fafc6f-a9da-4869-aeaf-2a5c1c09c50a",
+        "group": "Control",
+        "start_date": "2025-03-28",
+        "end_date": "2025-07-19",
+        "outcome": "Worsened",
+        "age": 54
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "4b84f793-e719-440a-aaf1-892c3b94790f",
+        "group": "Control",
+        "start_date": "2025-01-15",
+        "end_date": "2025-07-28",
+        "outcome": "Stable",
+        "age": 18
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "85b3524a-a392-48a4-8e96-2207378bbd96",
+        "group": "Control",
+        "start_date": "2025-01-30",
+        "end_date": "2025-08-08",
+        "outcome": "Improved",
+        "age": 42
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "a20bda18-c5a7-4580-bcf7-e95b3ac08678",
+        "group": "Control",
+        "start_date": "2025-02-13",
+        "end_date": "2025-06-23",
+        "outcome": "Stable",
+        "age": 48
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "f437f8e0-af92-4bc1-8a6f-107ceed769dc",
+        "group": "Treatment",
+        "start_date": "2025-03-23",
+        "end_date": "2025-07-10",
+        "outcome": "Improved",
+        "age": 55
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "50bd70ef-ac97-4e64-8e7b-5f4efe3b373d",
+        "group": "Control",
+        "start_date": "2025-04-01",
+        "end_date": "2025-08-08",
+        "outcome": "Stable",
+        "age": 37
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "e5609596-5769-42bf-8612-898fa3057dc7",
+        "group": "Control",
+        "start_date": "2025-02-23",
+        "end_date": "2025-06-28",
+        "outcome": "Improved",
+        "age": 55
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "f18bab9a-1371-4258-9a41-fb7ee420bf8a",
+        "group": "Control",
+        "start_date": "2025-07-27",
+        "end_date": "2025-08-03",
+        "outcome": "Worsened",
+        "age": 72
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "15f9082e-8086-4aa6-b957-7de86177ffd8",
+        "group": "Control",
+        "start_date": "2025-02-02",
+        "end_date": "2025-08-06",
+        "outcome": "Improved",
+        "age": 29
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "e2a22279-f9ba-4c3a-9be4-4b819cebee48",
+        "group": "Treatment",
+        "start_date": "2025-06-11",
+        "end_date": "2025-08-12",
+        "outcome": "Improved",
+        "age": 22
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "c6c2de10-e8ad-455d-bf7a-790010b96132",
+        "group": "Treatment",
+        "start_date": "2025-05-27",
+        "end_date": "2025-07-05",
+        "outcome": "Improved",
+        "age": 74
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "d351012a-1a50-494f-b34e-da840a52b2a5",
+        "group": "Treatment",
+        "start_date": "2025-05-17",
+        "end_date": "2025-07-16",
+        "outcome": "Worsened",
+        "age": 56
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "33b20a1c-2fb8-461f-9b00-09a0b30001ff",
+        "group": "Control",
+        "start_date": "2025-04-22",
+        "end_date": "2025-07-14",
+        "outcome": "Stable",
+        "age": 55
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "0de50fdb-9e50-4db7-86b0-4cf5aac11638",
+        "group": "Treatment",
+        "start_date": "2025-07-20",
+        "end_date": "2025-08-08",
+        "outcome": "Improved",
+        "age": 43
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "7e812f73-2cc7-4d47-90e9-1627dadb7e88",
+        "group": "Treatment",
+        "start_date": "2025-02-09",
+        "end_date": "2025-07-09",
+        "outcome": "Stable",
+        "age": 35
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "7b125ee8-d931-481c-bc39-65fcbeabcdd3",
+        "group": "Treatment",
+        "start_date": "2025-03-08",
+        "end_date": "2025-07-09",
+        "outcome": "Improved",
+        "age": 22
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "2c677f93-e4cf-4528-845f-55f103614095",
+        "group": "Treatment",
+        "start_date": "2025-08-12",
+        "end_date": "2025-07-08",
+        "outcome": "Improved",
+        "age": 24
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "fd3dc2a0-9c3c-4258-9489-401c5ad1d3a4",
+        "group": "Control",
+        "start_date": "2025-07-14",
+        "end_date": "2025-08-12",
+        "outcome": "Worsened",
+        "age": 28
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "36c4d545-1bcf-4b13-ac21-60437560d9bf",
+        "group": "Treatment",
+        "start_date": "2025-05-15",
+        "end_date": "2025-07-15",
+        "outcome": "Improved",
+        "age": 35
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "7c422b2a-54b4-407d-88b6-c86390c1476f",
+        "group": "Control",
+        "start_date": "2025-03-02",
+        "end_date": "2025-07-17",
+        "outcome": "Stable",
+        "age": 59
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "cc1f7c25-805c-4108-8d94-446a4da0c335",
+        "group": "Control",
+        "start_date": "2025-06-29",
+        "end_date": "2025-07-31",
+        "outcome": "Improved",
+        "age": 30
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "2b8dd067-8516-4408-a54d-10b1a2e288bb",
+        "group": "Control",
+        "start_date": "2025-06-30",
+        "end_date": "2025-08-11",
+        "outcome": "Stable",
+        "age": 60
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "01b57415-5df0-46c7-834b-267535b9eabe",
+        "group": "Control",
+        "start_date": "2025-01-25",
+        "end_date": "2025-06-21",
+        "outcome": "Stable",
+        "age": 58
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "aa9e686a-8975-4533-926c-5716bbc23e91",
+        "group": "Treatment",
+        "start_date": "2025-05-16",
+        "end_date": "2025-08-04",
+        "outcome": "Improved",
+        "age": 50
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "63b33c81-8628-4667-91d2-41f4f4994869",
+        "group": "Control",
+        "start_date": "2025-03-12",
+        "end_date": "2025-07-13",
+        "outcome": "Stable",
+        "age": 59
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "2311face-7502-40fd-9212-300a730f8c42",
+        "group": "Treatment",
+        "start_date": "2025-04-28",
+        "end_date": "2025-08-06",
+        "outcome": "Improved",
+        "age": 22
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "e2951312-14dc-4416-b147-c63b37a1b4ff",
+        "group": "Control",
+        "start_date": "2025-08-16",
+        "end_date": "2025-07-12",
+        "outcome": "Worsened",
+        "age": 45
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "f4b035e8-b858-4220-b197-76b43c379cfd",
+        "group": "Control",
+        "start_date": "2025-04-10",
+        "end_date": "2025-07-08",
+        "outcome": "Stable",
+        "age": 56
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "a78a90b9-e004-41be-bcff-cf007f506cde",
+        "group": "Treatment",
+        "start_date": "2025-02-22",
+        "end_date": "2025-07-11",
+        "outcome": "Stable",
+        "age": 48
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "10371049-e3c3-4ff6-8082-90740e948c90",
+        "group": "Control",
+        "start_date": "2025-03-03",
+        "end_date": "2025-06-28",
+        "outcome": "Improved",
+        "age": 39
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "a95f0f04-1f18-4a09-a7d5-20f2c1816ee3",
+        "group": "Treatment",
+        "start_date": "2025-08-07",
+        "end_date": "2025-07-14",
+        "outcome": "Improved",
+        "age": 19
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "8084b9ed-5301-48d5-9cfe-7bc0d0fefbc8",
+        "group": "Treatment",
+        "start_date": "2025-04-30",
+        "end_date": "2025-08-18",
+        "outcome": "Improved",
+        "age": 53
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "0f3b1ab7-9593-4bf7-aa4b-96f8ef048c36",
+        "group": "Control",
+        "start_date": "2025-06-26",
+        "end_date": "2025-08-13",
+        "outcome": "Improved",
+        "age": 43
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "57b26e7b-9008-4dab-8585-53811007a5c6",
+        "group": "Treatment",
+        "start_date": "2025-06-10",
+        "end_date": "2025-06-21",
+        "outcome": "Improved",
+        "age": 70
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "6b7a264c-1fd2-4da3-af76-77d098943c2b",
+        "group": "Control",
+        "start_date": "2025-06-21",
+        "end_date": "2025-08-16",
+        "outcome": "Stable",
+        "age": 18
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "853d7a2d-f408-4b8b-9ead-fc3e42c07ec6",
+        "group": "Control",
+        "start_date": "2025-03-06",
+        "end_date": "2025-07-21",
+        "outcome": "Stable",
+        "age": 62
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "a8eb3008-dacd-49de-9ff4-e2788149a6d1",
+        "group": "Control",
+        "start_date": "2025-05-13",
+        "end_date": "2025-07-06",
+        "outcome": "Stable",
+        "age": 48
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "727131ef-d55c-4e43-b307-f28aca77cc0a",
+        "group": "Treatment",
+        "start_date": "2025-01-27",
+        "end_date": "2025-06-26",
+        "outcome": "Stable",
+        "age": 25
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "7e8ed079-803d-4d8f-9925-641fe1e7b0c0",
+        "group": "Treatment",
+        "start_date": "2025-01-05",
+        "end_date": "2025-08-10",
+        "outcome": "Improved",
+        "age": 53
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "4ef5af35-0bdb-499d-a6eb-dd38f0f6538b",
+        "group": "Control",
+        "start_date": "2025-06-06",
+        "end_date": "2025-08-05",
+        "outcome": "Improved",
+        "age": 55
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "c138ceb8-f3f0-4b37-bdd7-a8b792b92034",
+        "group": "Treatment",
+        "start_date": "2025-08-04",
+        "end_date": "2025-07-24",
+        "outcome": "Improved",
+        "age": 63
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "3e4c0419-dfcd-4084-84d9-1085abe999f3",
+        "group": "Control",
+        "start_date": "2025-05-12",
+        "end_date": "2025-08-02",
+        "outcome": "Improved",
+        "age": 41
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "ce3c75a3-f8f6-4946-bcfc-f457c63575e3",
+        "group": "Treatment",
+        "start_date": "2025-01-17",
+        "end_date": "2025-07-15",
+        "outcome": "Stable",
+        "age": 60
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "71c68b85-bb6b-4c87-a3e5-3e9331a40485",
+        "group": "Control",
+        "start_date": "2025-06-20",
+        "end_date": "2025-07-08",
+        "outcome": "Worsened",
+        "age": 48
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "ec726f65-cae6-4c3c-a27f-487398e36bbb",
+        "group": "Control",
+        "start_date": "2025-02-25",
+        "end_date": "2025-06-30",
+        "outcome": "Stable",
+        "age": 35
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "69e32459-dd33-43f5-908e-94ba46bad0ab",
+        "group": "Treatment",
+        "start_date": "2025-07-09",
+        "end_date": "2025-07-17",
+        "outcome": "Improved",
+        "age": 18
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "8d0e7410-468d-4121-9184-996d56730236",
+        "group": "Control",
+        "start_date": "2025-03-05",
+        "end_date": "2025-08-11",
+        "outcome": "Stable",
+        "age": 75
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "a0014493-7ef2-42f2-aa68-ceb001d7ae8f",
+        "group": "Treatment",
+        "start_date": "2025-01-23",
+        "end_date": "2025-08-01",
+        "outcome": "Improved",
+        "age": 54
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "c8ea3f09-1640-4eba-9ecf-ea2e4702de04",
+        "group": "Treatment",
+        "start_date": "2025-05-05",
+        "end_date": "2025-08-14",
+        "outcome": "Improved",
+        "age": 48
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "890c18ef-cd72-499a-8016-400476eeb7c0",
+        "group": "Treatment",
+        "start_date": "2025-01-10",
+        "end_date": "2025-07-31",
+        "outcome": "Improved",
+        "age": 60
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "be1cccae-180f-4b37-a02c-69cce10782ad",
+        "group": "Treatment",
+        "start_date": "2025-04-16",
+        "end_date": "2025-07-12",
+        "outcome": "Improved",
+        "age": 47
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "4f2e78e4-ed24-4c55-8254-c35a7c44fd04",
+        "group": "Control",
+        "start_date": "2025-07-22",
+        "end_date": "2025-07-12",
+        "outcome": "Improved",
+        "age": 18
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "18e27c7e-e748-4896-8c3d-b8c424fc0dd1",
+        "group": "Treatment",
+        "start_date": "2025-04-15",
+        "end_date": "2025-07-10",
+        "outcome": "Improved",
+        "age": 64
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "58a0096d-f070-4c08-9f77-17a6085ffa38",
+        "group": "Treatment",
+        "start_date": "2025-08-06",
+        "end_date": "2025-08-06",
+        "outcome": "Improved",
+        "age": 31
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "b513dc43-a4c5-4816-836e-6278b12c315a",
+        "group": "Control",
+        "start_date": "2025-08-19",
+        "end_date": "2025-08-07",
+        "outcome": "Improved",
+        "age": 26
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "f35b3cf0-2c18-4191-ba96-5cde3cca185b",
+        "group": "Control",
+        "start_date": "2025-02-08",
+        "end_date": "2025-07-20",
+        "outcome": "Worsened",
+        "age": 20
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "ac791374-6917-42a3-9695-3a1ebaeeaf39",
+        "group": "Control",
+        "start_date": "2025-06-13",
+        "end_date": "2025-08-19",
+        "outcome": "Worsened",
+        "age": 44
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "1b9c63be-d600-4a7b-ba7c-04bc378bde26",
+        "group": "Control",
+        "start_date": "2025-03-02",
+        "end_date": "2025-08-15",
+        "outcome": "Worsened",
+        "age": 49
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "3b58ca9b-f66b-4872-a9d8-66a859051187",
+        "group": "Control",
+        "start_date": "2025-04-29",
+        "end_date": "2025-07-31",
+        "outcome": "Worsened",
+        "age": 75
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "54a1eb28-36a8-4cb9-a680-03361c79e6bc",
+        "group": "Control",
+        "start_date": "2025-01-06",
+        "end_date": "2025-07-04",
+        "outcome": "Stable",
+        "age": 22
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "d6b447b3-b87a-40f2-9788-04613172502a",
+        "group": "Treatment",
+        "start_date": "2025-04-26",
+        "end_date": "2025-08-09",
+        "outcome": "Improved",
+        "age": 43
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "f99f87c3-fc6b-4a82-94ba-ecbf8680591b",
+        "group": "Control",
+        "start_date": "2025-06-02",
+        "end_date": "2025-08-09",
+        "outcome": "Stable",
+        "age": 42
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "9c47454e-3d93-4ffe-acfa-92a79beefe0f",
+        "group": "Control",
+        "start_date": "2025-02-14",
+        "end_date": "2025-06-29",
+        "outcome": "Stable",
+        "age": 52
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "137473c9-24ca-4148-8c81-0625f610c95f",
+        "group": "Control",
+        "start_date": "2025-04-16",
+        "end_date": "2025-07-17",
+        "outcome": "Stable",
+        "age": 55
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "cfc7aa9e-7b20-4fef-97e5-889ad4b42daf",
+        "group": "Treatment",
+        "start_date": "2025-04-11",
+        "end_date": "2025-08-12",
+        "outcome": "Improved",
+        "age": 50
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "97877d03-f742-440e-ba52-3b7344c1dfef",
+        "group": "Control",
+        "start_date": "2025-07-25",
+        "end_date": "2025-06-30",
+        "outcome": "Stable",
+        "age": 31
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "0f28539a-33cb-45a8-b78e-7fb8672501c4",
+        "group": "Treatment",
+        "start_date": "2025-07-28",
+        "end_date": "2025-07-03",
+        "outcome": "Improved",
+        "age": 66
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "44d65aff-60f4-4852-afef-3499be162594",
+        "group": "Treatment",
+        "start_date": "2025-05-09",
+        "end_date": "2025-08-16",
+        "outcome": "Stable",
+        "age": 39
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "6dff1ff4-44ac-4bc2-b174-4b83611dbbc4",
+        "group": "Control",
+        "start_date": "2025-03-31",
+        "end_date": "2025-07-20",
+        "outcome": "Stable",
+        "age": 58
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "bfca2a7f-021b-487f-9999-a2643da267e4",
+        "group": "Treatment",
+        "start_date": "2025-07-12",
+        "end_date": "2025-07-27",
+        "outcome": "Improved",
+        "age": 51
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "bafb720a-582f-453b-a402-a2e1526e4b6d",
+        "group": "Control",
+        "start_date": "2025-03-18",
+        "end_date": "2025-07-14",
+        "outcome": "Stable",
+        "age": 48
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "9ed9aca9-8003-4fe9-a90f-ec6b49773f57",
+        "group": "Treatment",
+        "start_date": "2025-01-23",
+        "end_date": "2025-07-25",
+        "outcome": "Improved",
+        "age": 51
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "8e792667-8d86-4ba7-ba55-5fff49c7a448",
+        "group": "Treatment",
+        "start_date": "2025-06-01",
+        "end_date": "2025-06-22",
+        "outcome": "Worsened",
+        "age": 57
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "39edf6cb-0ba1-463a-b849-f8b53e5d5ec8",
+        "group": "Control",
+        "start_date": "2025-01-06",
+        "end_date": "2025-06-28",
+        "outcome": "Stable",
+        "age": 33
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "5663abd7-96e7-4104-b178-6990b67b7c08",
+        "group": "Control",
+        "start_date": "2025-05-09",
+        "end_date": "2025-08-06",
+        "outcome": "Stable",
+        "age": 69
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "9d0959f2-267f-4128-9a91-1e441295277b",
+        "group": "Control",
+        "start_date": "2025-04-10",
+        "end_date": "2025-07-28",
+        "outcome": "Worsened",
+        "age": 24
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "9994462f-b2eb-4f96-8a9b-f2221dcc8484",
+        "group": "Treatment",
+        "start_date": "2025-03-25",
+        "end_date": "2025-07-28",
+        "outcome": "Improved",
+        "age": 26
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "9df6b66f-4e54-4e3f-8da6-4edff3494440",
+        "group": "Treatment",
+        "start_date": "2025-03-27",
+        "end_date": "2025-07-02",
+        "outcome": "Improved",
+        "age": 26
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "bac85b67-2665-4948-889e-98039013282f",
+        "group": "Control",
+        "start_date": "2025-06-20",
+        "end_date": "2025-08-02",
+        "outcome": "Stable",
+        "age": 55
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "1505a509-be35-4f6e-95b4-8dfe20ea93cf",
+        "group": "Control",
+        "start_date": "2025-04-28",
+        "end_date": "2025-06-26",
+        "outcome": "Stable",
+        "age": 27
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "cf86e0a4-9914-4056-adaf-7ed50f884d19",
+        "group": "Control",
+        "start_date": "2025-05-21",
+        "end_date": "2025-07-13",
+        "outcome": "Stable",
+        "age": 64
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "45669b8d-84ae-4908-a5a3-3b8f3ed5081e",
+        "group": "Treatment",
+        "start_date": "2025-05-10",
+        "end_date": "2025-07-29",
+        "outcome": "Improved",
+        "age": 39
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "bc71f86c-0157-4611-a3e0-1b046e64bd0c",
+        "group": "Treatment",
+        "start_date": "2025-04-07",
+        "end_date": "2025-06-30",
+        "outcome": "Improved",
+        "age": 68
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "42a40c45-614f-46bc-ae0b-29557b1c563f",
+        "group": "Control",
+        "start_date": "2025-01-12",
+        "end_date": "2025-08-15",
+        "outcome": "Stable",
+        "age": 63
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "865902b1-b484-48e8-93e8-f7899ab3fa86",
+        "group": "Treatment",
+        "start_date": "2025-07-13",
+        "end_date": "2025-06-27",
+        "outcome": "Stable",
+        "age": 70
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "86992d9b-a241-4593-a823-d8519acb5e36",
+        "group": "Treatment",
+        "start_date": "2025-03-08",
+        "end_date": "2025-07-04",
+        "outcome": "Improved",
+        "age": 63
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "ea2a1450-375b-4ce0-97cb-4e92394be412",
+        "group": "Control",
+        "start_date": "2025-07-03",
+        "end_date": "2025-08-12",
+        "outcome": "Stable",
+        "age": 60
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "f7b0edad-0968-489b-b633-7f1fbc650b28",
+        "group": "Treatment",
+        "start_date": "2025-03-03",
+        "end_date": "2025-08-05",
+        "outcome": "Improved",
+        "age": 24
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "29c4d582-5e10-44d2-a293-cdc16740a9bd",
+        "group": "Treatment",
+        "start_date": "2025-04-14",
+        "end_date": "2025-06-29",
+        "outcome": "Stable",
+        "age": 32
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "383e2ff2-96aa-4fa0-92f6-bd2a8ccbfb90",
+        "group": "Control",
+        "start_date": "2025-02-11",
+        "end_date": "2025-06-22",
+        "outcome": "Worsened",
+        "age": 64
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "1caa7376-d09a-4b52-acf0-1e66e857c78d",
+        "group": "Treatment",
+        "start_date": "2025-01-03",
+        "end_date": "2025-06-28",
+        "outcome": "Improved",
+        "age": 71
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "a6d0f481-a98a-48d3-99d6-b84de0840fbb",
+        "group": "Control",
+        "start_date": "2025-06-30",
+        "end_date": "2025-06-30",
+        "outcome": "Worsened",
+        "age": 48
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "3053f763-2788-4655-881d-1fa6e0ac033a",
+        "group": "Treatment",
+        "start_date": "2025-01-24",
+        "end_date": "2025-08-04",
+        "outcome": "Worsened",
+        "age": 27
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "3ce421b6-0542-400f-8bb5-bba67521a32c",
+        "group": "Control",
+        "start_date": "2025-06-22",
+        "end_date": "2025-08-03",
+        "outcome": "Worsened",
+        "age": 25
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "c27f46ad-6453-457d-aca7-cf1393463b31",
+        "group": "Treatment",
+        "start_date": "2025-06-26",
+        "end_date": "2025-07-28",
+        "outcome": "Improved",
+        "age": 19
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "1200ad32-baf1-4c89-a42c-f8c27988ba15",
+        "group": "Treatment",
+        "start_date": "2025-07-03",
+        "end_date": "2025-08-09",
+        "outcome": "Stable",
+        "age": 28
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "d740fd23-9c3b-4dd0-8418-a77701e794fa",
+        "group": "Treatment",
+        "start_date": "2025-02-02",
+        "end_date": "2025-08-15",
+        "outcome": "Improved",
+        "age": 65
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "580b74bb-962b-428a-a15f-9114d0b42945",
+        "group": "Treatment",
+        "start_date": "2025-01-07",
+        "end_date": "2025-07-21",
+        "outcome": "Stable",
+        "age": 59
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "5c3e1eda-1a3b-4a3a-a32c-4abe72bc879a",
+        "group": "Control",
+        "start_date": "2025-07-21",
+        "end_date": "2025-07-23",
+        "outcome": "Stable",
+        "age": 35
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "038eba6e-883a-4d88-bc66-0ca109718dc6",
+        "group": "Control",
+        "start_date": "2025-04-12",
+        "end_date": "2025-06-23",
+        "outcome": "Improved",
+        "age": 24
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "4e71b70a-5596-49ee-86b6-e41e4fca8305",
+        "group": "Control",
+        "start_date": "2025-01-21",
+        "end_date": "2025-07-25",
+        "outcome": "Improved",
+        "age": 19
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "f6b98b57-728f-437d-b88d-67d0232e3da5",
+        "group": "Treatment",
+        "start_date": "2025-07-27",
+        "end_date": "2025-07-06",
+        "outcome": "Improved",
+        "age": 41
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "5ede5691-ee10-42ce-9faf-60d141ece6f5",
+        "group": "Control",
+        "start_date": "2025-03-06",
+        "end_date": "2025-06-28",
+        "outcome": "Stable",
+        "age": 58
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "821f5c04-1863-4973-bc13-24c6a023d7ad",
+        "group": "Control",
+        "start_date": "2025-01-31",
+        "end_date": "2025-06-30",
+        "outcome": "Improved",
+        "age": 58
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "339fb5d4-8d11-4edf-97b9-87fb1a4fe2b3",
+        "group": "Control",
+        "start_date": "2025-07-22",
+        "end_date": "2025-07-02",
+        "outcome": "Worsened",
+        "age": 25
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "b485bacf-53f7-4f04-844a-bca243c15f4a",
+        "group": "Treatment",
+        "start_date": "2025-03-16",
+        "end_date": "2025-08-01",
+        "outcome": "Improved",
+        "age": 19
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "5338d1ea-67e4-49e4-8798-76082d21be6e",
+        "group": "Control",
+        "start_date": "2025-03-25",
+        "end_date": "2025-06-27",
+        "outcome": "Stable",
+        "age": 49
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "f5016cee-9c12-40c9-951b-34adbeeb799f",
+        "group": "Treatment",
+        "start_date": "2025-04-18",
+        "end_date": "2025-08-18",
+        "outcome": "Improved",
+        "age": 63
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "af64114a-5b4a-4ca7-81cb-97fa3cd6ecf3",
+        "group": "Treatment",
+        "start_date": "2025-03-09",
+        "end_date": "2025-07-13",
+        "outcome": "Improved",
+        "age": 30
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "1feabcb4-62e1-4ab7-886a-5e72c6ce8bee",
+        "group": "Control",
+        "start_date": "2025-07-03",
+        "end_date": "2025-06-25",
+        "outcome": "Stable",
+        "age": 43
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "927f806e-a22a-4e75-8f70-7c54d9cf9abb",
+        "group": "Control",
+        "start_date": "2025-08-15",
+        "end_date": "2025-06-29",
+        "outcome": "Stable",
+        "age": 38
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "a75fa5ec-2d29-4366-88c0-281365738ec7",
+        "group": "Control",
+        "start_date": "2025-02-09",
+        "end_date": "2025-07-07",
+        "outcome": "Stable",
+        "age": 49
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "949eb833-9611-4a31-8d8b-2c19863b8d40",
+        "group": "Treatment",
+        "start_date": "2025-08-12",
+        "end_date": "2025-07-13",
+        "outcome": "Improved",
+        "age": 23
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "cd0fa0b4-65b7-48bd-b26f-d5484e97a733",
+        "group": "Treatment",
+        "start_date": "2025-06-30",
+        "end_date": "2025-08-14",
+        "outcome": "Improved",
+        "age": 47
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "cdc1ddf1-2b8e-4fc4-b696-f45eaf496eba",
+        "group": "Treatment",
+        "start_date": "2025-05-09",
+        "end_date": "2025-07-31",
+        "outcome": "Improved",
+        "age": 21
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "7095f58c-9c9c-462f-887c-ba7f5c3240ff",
+        "group": "Control",
+        "start_date": "2025-04-01",
+        "end_date": "2025-07-25",
+        "outcome": "Stable",
+        "age": 20
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "07e54977-0f7c-4cd9-b4c3-2ebbc38f480a",
+        "group": "Control",
+        "start_date": "2025-05-29",
+        "end_date": "2025-08-02",
+        "outcome": "Worsened",
+        "age": 63
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "910b4d48-63f6-4cfe-afb7-772e0e92704f",
+        "group": "Treatment",
+        "start_date": "2025-07-20",
+        "end_date": "2025-07-30",
+        "outcome": "Worsened",
+        "age": 40
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "32bfe7d5-77e4-43a0-9550-3375654de224",
+        "group": "Treatment",
+        "start_date": "2025-05-27",
+        "end_date": "2025-06-23",
+        "outcome": "Worsened",
+        "age": 43
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "d674c4a1-7fae-41e7-89b8-55ac5d388521",
+        "group": "Control",
+        "start_date": "2025-07-16",
+        "end_date": "2025-07-29",
+        "outcome": "Improved",
+        "age": 33
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "117d76ee-92a1-4623-bde6-a6251a8237ee",
+        "group": "Control",
+        "start_date": "2025-02-19",
+        "end_date": "2025-06-27",
+        "outcome": "Stable",
+        "age": 23
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "85350888-eb52-437e-b8ea-d047a81b85ae",
+        "group": "Treatment",
+        "start_date": "2025-08-15",
+        "end_date": "2025-07-28",
+        "outcome": "Improved",
+        "age": 50
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "b1ec9ff7-deab-4c57-a5cf-f6f3667de886",
+        "group": "Treatment",
+        "start_date": "2025-05-20",
+        "end_date": "2025-07-05",
+        "outcome": "Improved",
+        "age": 56
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "779bc503-2946-447a-9aad-3a5f2834ffc1",
+        "group": "Treatment",
+        "start_date": "2025-04-22",
+        "end_date": "2025-08-13",
+        "outcome": "Worsened",
+        "age": 59
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "26bb3d49-d400-4f69-83d8-b1a2a2207c07",
+        "group": "Control",
+        "start_date": "2025-08-03",
+        "end_date": "2025-08-09",
+        "outcome": "Stable",
+        "age": 52
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "8d304a5e-3d13-442d-b16e-319005c70dfc",
+        "group": "Treatment",
+        "start_date": "2025-04-08",
+        "end_date": "2025-07-13",
+        "outcome": "Improved",
+        "age": 50
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "b7f00f13-f209-4a17-9e09-035d39601520",
+        "group": "Treatment",
+        "start_date": "2025-07-11",
+        "end_date": "2025-06-22",
+        "outcome": "Improved",
+        "age": 21
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "639c21a8-163f-4e9c-a36d-8949717f8ae4",
+        "group": "Control",
+        "start_date": "2025-02-13",
+        "end_date": "2025-07-27",
+        "outcome": "Stable",
+        "age": 21
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "235e9964-6062-466b-81b3-914f109732cc",
+        "group": "Control",
+        "start_date": "2025-03-21",
+        "end_date": "2025-07-18",
+        "outcome": "Improved",
+        "age": 32
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "be5ffd2c-9e07-4ee1-8869-94ac1c2ce9fc",
+        "group": "Treatment",
+        "start_date": "2025-02-03",
+        "end_date": "2025-08-03",
+        "outcome": "Improved",
+        "age": 74
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "c0a9f51a-cb7e-42ca-9fdd-a96acbeb911e",
+        "group": "Control",
+        "start_date": "2025-08-10",
+        "end_date": "2025-08-06",
+        "outcome": "Worsened",
+        "age": 55
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "628b8a35-d87d-4fa0-a4a9-5d56a1922c35",
+        "group": "Control",
+        "start_date": "2025-05-30",
+        "end_date": "2025-08-09",
+        "outcome": "Improved",
+        "age": 56
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "fc382e6e-a4f2-4672-84a2-f20c6694f9bf",
+        "group": "Control",
+        "start_date": "2025-01-11",
+        "end_date": "2025-06-24",
+        "outcome": "Improved",
+        "age": 60
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "f0f3a99d-0d04-4ae9-816a-0a5146ea1fca",
+        "group": "Control",
+        "start_date": "2025-02-05",
+        "end_date": "2025-07-07",
+        "outcome": "Worsened",
+        "age": 69
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "1b7eadbc-c671-4838-83e8-f5520ad3cce9",
+        "group": "Control",
+        "start_date": "2025-08-14",
+        "end_date": "2025-08-03",
+        "outcome": "Worsened",
+        "age": 30
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "2febf700-5daa-4fbf-95ae-5baab907f88a",
+        "group": "Treatment",
+        "start_date": "2025-01-21",
+        "end_date": "2025-07-13",
+        "outcome": "Stable",
+        "age": 58
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "195a1e61-2a26-4f27-8d3e-20078eded881",
+        "group": "Control",
+        "start_date": "2025-04-18",
+        "end_date": "2025-07-22",
+        "outcome": "Stable",
+        "age": 66
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "88237bc5-adb5-4edc-ab44-75ce356e6bc2",
+        "group": "Treatment",
+        "start_date": "2025-02-13",
+        "end_date": "2025-08-10",
+        "outcome": "Improved",
+        "age": 19
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "a5d6dd34-9258-4b9f-ae69-edfc2376038e",
+        "group": "Control",
+        "start_date": "2025-04-04",
+        "end_date": "2025-08-07",
+        "outcome": "Stable",
+        "age": 53
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "c1ac0aba-2e36-472a-9f3c-ec4d81dd5ae2",
+        "group": "Control",
+        "start_date": "2025-04-22",
+        "end_date": "2025-06-22",
+        "outcome": "Stable",
+        "age": 48
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "2a9e3e74-638a-4eef-ac0a-8f0ec22aae1d",
+        "group": "Treatment",
+        "start_date": "2025-05-29",
+        "end_date": "2025-06-27",
+        "outcome": "Stable",
+        "age": 38
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "4b5ca379-1968-48c2-9468-1576c82a05c4",
+        "group": "Treatment",
+        "start_date": "2025-03-25",
+        "end_date": "2025-08-11",
+        "outcome": "Improved",
+        "age": 57
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "0c95397e-86fe-4e04-bb89-ab6838bb1c5a",
+        "group": "Treatment",
+        "start_date": "2025-02-24",
+        "end_date": "2025-07-29",
+        "outcome": "Improved",
+        "age": 58
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "f047088e-a167-4753-b4ae-3b21cb3aff55",
+        "group": "Control",
+        "start_date": "2025-01-09",
+        "end_date": "2025-08-16",
+        "outcome": "Improved",
+        "age": 19
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "eb32737f-19ac-4dcc-aaa8-21ff9b639185",
+        "group": "Control",
+        "start_date": "2025-05-06",
+        "end_date": "2025-06-21",
+        "outcome": "Stable",
+        "age": 51
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "901d8cae-f852-4c24-be13-3c2dc75c3ca4",
+        "group": "Treatment",
+        "start_date": "2025-03-07",
+        "end_date": "2025-07-06",
+        "outcome": "Improved",
+        "age": 40
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "d2f548f9-122c-4ecc-b90a-9ab8a0c3bfc5",
+        "group": "Treatment",
+        "start_date": "2025-08-15",
+        "end_date": "2025-08-07",
+        "outcome": "Improved",
+        "age": 71
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "c5d16daf-1021-4c56-9342-0420dcf24910",
+        "group": "Control",
+        "start_date": "2025-02-25",
+        "end_date": "2025-08-11",
+        "outcome": "Worsened",
+        "age": 59
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "6e860f4d-b493-4034-b5fc-f89e8317065f",
+        "group": "Treatment",
+        "start_date": "2025-01-10",
+        "end_date": "2025-07-05",
+        "outcome": "Worsened",
+        "age": 60
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "45c28a39-d1f4-4ee1-80f3-420ee9237f83",
+        "group": "Treatment",
+        "start_date": "2025-07-31",
+        "end_date": "2025-06-24",
+        "outcome": "Improved",
+        "age": 28
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "1a190018-6204-4656-a327-c0e84e800a75",
+        "group": "Treatment",
+        "start_date": "2025-06-14",
+        "end_date": "2025-08-01",
+        "outcome": "Improved",
+        "age": 67
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "831ed12d-1196-405f-b042-89714767021b",
+        "group": "Control",
+        "start_date": "2025-05-01",
+        "end_date": "2025-06-30",
+        "outcome": "Stable",
+        "age": 65
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "890d0dc7-ba72-44f3-ba60-c0c5fce6d50e",
+        "group": "Treatment",
+        "start_date": "2025-01-05",
+        "end_date": "2025-07-06",
+        "outcome": "Improved",
+        "age": 33
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "b353e332-8326-4aa5-8196-2dc1fe0981e8",
+        "group": "Treatment",
+        "start_date": "2025-03-29",
+        "end_date": "2025-07-17",
+        "outcome": "Improved",
+        "age": 28
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "49bd83e9-c79f-4503-919c-98ade4c884bd",
+        "group": "Treatment",
+        "start_date": "2025-07-15",
+        "end_date": "2025-07-18",
+        "outcome": "Stable",
+        "age": 29
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "221a1e24-c04b-4fd8-9a52-72f6fa23fdc2",
+        "group": "Treatment",
+        "start_date": "2025-03-09",
+        "end_date": "2025-08-08",
+        "outcome": "Worsened",
+        "age": 65
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "73cb2a65-7f0c-4bce-adf8-60148c109b22",
+        "group": "Treatment",
+        "start_date": "2025-06-02",
+        "end_date": "2025-07-25",
+        "outcome": "Improved",
+        "age": 29
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "611a130e-b3cf-48dc-8176-83e33aba7021",
+        "group": "Treatment",
+        "start_date": "2025-02-02",
+        "end_date": "2025-07-27",
+        "outcome": "Improved",
+        "age": 29
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "90a83dcf-192f-42c9-8a28-dcc048862d0b",
+        "group": "Treatment",
+        "start_date": "2025-01-16",
+        "end_date": "2025-08-16",
+        "outcome": "Improved",
+        "age": 73
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "17e43ff0-6649-4bba-bbef-68a32197fda1",
+        "group": "Control",
+        "start_date": "2025-02-22",
+        "end_date": "2025-07-28",
+        "outcome": "Stable",
+        "age": 47
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "cc7369cf-5edc-46d9-a76a-80b7162632a2",
+        "group": "Treatment",
+        "start_date": "2025-07-23",
+        "end_date": "2025-08-18",
+        "outcome": "Improved",
+        "age": 63
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "aff6efbe-cc95-4e80-89f1-44134c135fed",
+        "group": "Treatment",
+        "start_date": "2025-01-22",
+        "end_date": "2025-07-16",
+        "outcome": "Improved",
+        "age": 23
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "308f5c90-9e61-4a17-9833-c399cd25de83",
+        "group": "Treatment",
+        "start_date": "2025-07-03",
+        "end_date": "2025-08-06",
+        "outcome": "Improved",
+        "age": 35
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "c177760c-a4b5-4191-9e80-44c315b990ba",
+        "group": "Control",
+        "start_date": "2025-04-14",
+        "end_date": "2025-07-15",
+        "outcome": "Stable",
+        "age": 60
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "8bb55e56-ff44-4e66-9cd5-359b7bb3f8d5",
+        "group": "Control",
+        "start_date": "2025-05-22",
+        "end_date": "2025-07-16",
+        "outcome": "Stable",
+        "age": 42
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "8ed8702b-51dc-4665-b1f5-72fcbf5f1df0",
+        "group": "Control",
+        "start_date": "2025-02-17",
+        "end_date": "2025-08-13",
+        "outcome": "Improved",
+        "age": 22
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "bdaafbb7-c110-4da1-a6fd-c4e88cb2e342",
+        "group": "Control",
+        "start_date": "2025-07-13",
+        "end_date": "2025-07-28",
+        "outcome": "Stable",
+        "age": 39
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "4c7384fb-796f-4ebe-8ad8-68a54584770c",
+        "group": "Control",
+        "start_date": "2025-05-19",
+        "end_date": "2025-08-03",
+        "outcome": "Stable",
+        "age": 18
+    },
+    {
+        "trial_id": "TRIAL-12345",
+        "patient_id": "4045006c-960f-4eb2-a375-d1fb96bd3fa0",
+        "group": "Control",
+        "start_date": "2025-07-08",
+        "end_date": "2025-08-07",
+        "outcome": "Improved",
+        "age": 62
+    }
+]
